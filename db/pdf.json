@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "Application Form",
+    "pdf": "../pdf_file/Application-Form.pdf"
+  },
+  {
+    "filename": "Scholarship Letter",
+    "pdf": "../pdf_file/Scholarship-Letter.pdf"
+  },
+  {
+    "filename": "Personal Information Sheet Form",
+    "pdf": "../pdf_file/Personal-Information-Sheet-Form.pdf"
+  }
+]
